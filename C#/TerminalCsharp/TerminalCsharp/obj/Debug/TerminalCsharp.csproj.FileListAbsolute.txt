@@ -1,0 +1,20 @@
+D:\Documents\BGU Programing\computer structure\C#\TerminalCsharp\TerminalCsharp\bin\Debug\TerminalCsharp.exe.config
+D:\Documents\BGU Programing\computer structure\C#\TerminalCsharp\TerminalCsharp\bin\Debug\TerminalCsharp.exe
+D:\Documents\BGU Programing\computer structure\C#\TerminalCsharp\TerminalCsharp\bin\Debug\TerminalCsharp.pdb
+D:\Documents\BGU Programing\computer structure\C#\TerminalCsharp\TerminalCsharp\obj\Debug\TerminalCsharp.csprojAssemblyReference.cache
+D:\Documents\BGU Programing\computer structure\C#\TerminalCsharp\TerminalCsharp\obj\Debug\TerminalCsharp.Form1.resources
+D:\Documents\BGU Programing\computer structure\C#\TerminalCsharp\TerminalCsharp\obj\Debug\TerminalCsharp.Properties.Resources.resources
+D:\Documents\BGU Programing\computer structure\C#\TerminalCsharp\TerminalCsharp\obj\Debug\TerminalCsharp.csproj.GenerateResource.cache
+D:\Documents\BGU Programing\computer structure\C#\TerminalCsharp\TerminalCsharp\obj\Debug\TerminalCsharp.csproj.CoreCompileInputs.cache
+D:\Documents\BGU Programing\computer structure\C#\TerminalCsharp\TerminalCsharp\obj\Debug\TerminalCsharp.exe
+D:\Documents\BGU Programing\computer structure\C#\TerminalCsharp\TerminalCsharp\obj\Debug\TerminalCsharp.pdb
+D:\Documents\BGU Programing\computer structure\Terminal Project\C#\TerminalCsharp\TerminalCsharp\bin\Debug\TerminalCsharp.exe.config
+D:\Documents\BGU Programing\computer structure\Terminal Project\C#\TerminalCsharp\TerminalCsharp\bin\Debug\TerminalCsharp.exe
+D:\Documents\BGU Programing\computer structure\Terminal Project\C#\TerminalCsharp\TerminalCsharp\bin\Debug\TerminalCsharp.pdb
+D:\Documents\BGU Programing\computer structure\Terminal Project\C#\TerminalCsharp\TerminalCsharp\obj\Debug\TerminalCsharp.Form1.resources
+D:\Documents\BGU Programing\computer structure\Terminal Project\C#\TerminalCsharp\TerminalCsharp\obj\Debug\TerminalCsharp.Properties.Resources.resources
+D:\Documents\BGU Programing\computer structure\Terminal Project\C#\TerminalCsharp\TerminalCsharp\obj\Debug\TerminalCsharp.csproj.GenerateResource.cache
+D:\Documents\BGU Programing\computer structure\Terminal Project\C#\TerminalCsharp\TerminalCsharp\obj\Debug\TerminalCsharp.csproj.CoreCompileInputs.cache
+D:\Documents\BGU Programing\computer structure\Terminal Project\C#\TerminalCsharp\TerminalCsharp\obj\Debug\TerminalCsharp.exe
+D:\Documents\BGU Programing\computer structure\Terminal Project\C#\TerminalCsharp\TerminalCsharp\obj\Debug\TerminalCsharp.pdb
+D:\Documents\BGU Programing\computer structure\Terminal Project\C#\TerminalCsharp\TerminalCsharp\obj\Debug\TerminalCsharp.csprojAssemblyReference.cache
