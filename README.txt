@@ -1,3 +1,6 @@
+The project is about making terminal on micro-processor based on UART communication protocol. 
+Work is done through C# and embedded C.
+
 README
 CodeWarrior:
 main.c - The main source file of the ARM code. The main loop is there, and all the sub functions to control strings, addresses etc.
